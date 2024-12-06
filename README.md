@@ -2,7 +2,7 @@
 
 
 # Movement Token List:
-Mosaic's Movement Token List is the go-to categorized catalog for both legacy coins and Fungible Assets tradeable on the Movement chain. You can JSON file in github to fetch the [Movement Token List](https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/token-list-testnet.json). 
+Mosaic's Movement Token List is the go-to categorized catalog for both legacy coins and Fungible Assets tradeable on the Movement chain. You can JSON file in github to fetch the [Movement Token List](https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/token-list-porto.json). 
 
 # Projects - How to Add Your Token to the Mosaic Token List:
 
@@ -10,7 +10,7 @@ To add your token to the Movement Token List, follow these steps:
 
 ## 1. Add Token Icon
 
-Add the token_symbol.svg file for the token in the [logos_testnet](https://github.com/kitelabs-io/mvmt-tokens/tree/main/logos_testnet) folder. Ensure it's no larger than 250x250 pixels, < 1MB, and has a unique symbol not used by any existing token. 
+Add the token_symbol.svg file for the token in the [logos_porto](https://github.com/kitelabs-io/mvmt-tokens/tree/main/logos_porto) folder. Ensure it's no larger than 250x250 pixels, < 1MB, and has a unique symbol not used by any existing token. 
 
 Provide the following details:
 
@@ -25,7 +25,7 @@ Example:
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
-      "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_testnet/USDT.png"
+      "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_porto/USDT.png"
   }
 ```
 
@@ -65,6 +65,6 @@ Example:
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
-      "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_testnet/USDT.png"
+      "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_porto/USDT.png"
   }
 ```
