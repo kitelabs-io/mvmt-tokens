@@ -1,6 +1,3 @@
-# Mosaic: The Leading DEX Aggregator on Movement
-
-
 # Movement Token List:
 Mosaic's Movement Token List is the go-to categorized catalog for both legacy coins and Fungible Assets tradeable on the Movement chain. You can JSON file in github to fetch the [Movement Token List](https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/token-list-porto.json). 
 
