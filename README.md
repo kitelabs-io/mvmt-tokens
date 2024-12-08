@@ -18,7 +18,6 @@ Example:
     {
       "faAddress": "0xe161897670a0ee5a0e3c79c3b894a0c46e4ba54c6d2ca32e285ab4b01eb74b66",
       "coinType": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
-      "type": "coin",
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
@@ -45,7 +44,6 @@ Movement Token List Response object consists of the following fields:
 
 - `faAddress`: The fungible asset address of the token
 - `coinType`: The complete address of the token as per the Aptos Coin Standard (Legacy) (optional)
-- `type`: 'coin' | 'fungibleAsset'
 - `name`: The on-chain registered name of the token
 - `symbol`: The on-chain registered symbol of the token
 - `decimals`: The number of decimal places of the token
@@ -58,7 +56,6 @@ Example:
     {
       "faAddress": "0xe161897670a0ee5a0e3c79c3b894a0c46e4ba54c6d2ca32e285ab4b01eb74b66",
       "coinType": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
-      "type": "coin",
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
