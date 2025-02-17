@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "faAddress": "0xa",
+    "coinType": "0x1::aptos_coin::AptosCoin",
+    "symbol": "MOVE",
+    "name": "Movement Coin",
+    "decimals": 8,
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos/MOVE.png"
+  }
+]
