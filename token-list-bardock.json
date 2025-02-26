@@ -6,5 +6,13 @@
     "name": "Movement Coin",
     "decimals": 8,
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_bardock/MOVE.png"
+  },
+  {
+    "faAddress": "0x33b49da7a378476a9abd85cac12913e0c78d9758e9d509249ae0068ab4bf5c1a",
+    "coinType": "0xf4a6b1b291c9b6687dbacfcabc79300577ae89e094c42da22072459c62888bf2::coin::USDC",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_bardock/USDC.png"
   }
 ]
