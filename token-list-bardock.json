@@ -8,7 +8,7 @@
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_bardock/MOVE.png"
   },
   {
-    "faAddress": "0xc6f5b46ab5307dfe3e565668edcc1461b31cac5a6c2739fba17d9fdde16813a2",
+    "faAddress": "0xab85cf20d26368dc43b49152a7b4543eb86c6a2d98c30b9b2cfb7b574f364981",
     "coinType": "",
     "symbol": "WETH.e",
     "name": "WETH.e",
@@ -24,7 +24,7 @@
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_bardock/USDC.png"
   },
   {
-    "faAddress": "0xab85cf20d26368dc43b49152a7b4543eb86c6a2d98c30b9b2cfb7b574f364981",
+    "faAddress": "0xc6f5b46ab5307dfe3e565668edcc1461b31cac5a6c2739fba17d9fdde16813a2",
     "coinType": "",
     "symbol": "USDT.e",
     "name": "USDT.e",
