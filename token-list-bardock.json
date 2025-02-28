@@ -8,6 +8,14 @@
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_bardock/MOVE.png"
   },
   {
+    "faAddress": "0xc6f5b46ab5307dfe3e565668edcc1461b31cac5a6c2739fba17d9fdde16813a2",
+    "coinType": "",
+    "symbol": "WETH.e",
+    "name": "WETH.e",
+    "decimals": 8,
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_bardock/WETH.png"
+  },
+  {
     "faAddress": "0xb89077cfd2a82a0c1450534d49cfd5f2707643155273069bc23a912bcfefdee7",
     "coinType": "",
     "symbol": "USDC.e",
@@ -22,13 +30,5 @@
     "name": "USDT.e",
     "decimals": 6,
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_bardock/USDT.png"
-  },
-  {
-    "faAddress": "0xc6f5b46ab5307dfe3e565668edcc1461b31cac5a6c2739fba17d9fdde16813a2",
-    "coinType": "",
-    "symbol": "WETH.e",
-    "name": "WETH.e",
-    "decimals": 8,
-    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_bardock/WETH.png"
   }
 ]
