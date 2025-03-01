@@ -46,9 +46,9 @@
   },
   {
     "name": "Mosaic",
-    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/mosaic.png",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/mosaic_amm.png",
     "options": [
-      "mosaic_swap"
+      "mosaic_amm"
     ]
   }
 ]
