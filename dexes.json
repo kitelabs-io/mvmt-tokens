@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Warp Gate",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/warp_gate.png",
+    "options": [
+      "warp_gate_swap"
+    ]
+  },
+  {
+    "name": "YuzuSwap",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/yuzu_swap.svg",
+    "options": [
+      "yuzu_swap"
+    ]
+  },
+  {
+    "name": "Meridian",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/meridian.ico",
+    "options": [
+      "meridian_stable",
+      "meridian_weighted"
+    ]
+  },
+  {
+    "name": "Interest",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/interest.png",
+    "options": [
+      "interest_sr_amm",
+      "interest_stable",
+      "interest_volatile"
+    ]
+  },
+  {
+    "name": "LiquidSwap",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/liquidswap.ico",
+    "options": [
+      "liquid_swap"
+    ]
+  },
+  {
+    "name": "RazorSwap",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/razor.png",
+    "options": [
+      "razor_swap"
+    ]
+  },
+  {
+    "name": "Mosaic",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/dexes/logos_dexes/mosaic.png",
+    "options": [
+      "mosaic_swap"
+    ]
+  }
+]
