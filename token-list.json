@@ -6,5 +6,12 @@
     "name": "Movement Coin",
     "decimals": 8,
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos/MOVE.png"
+  },
+  {
+    "faAddress": "0x2092ebb9cd4279c252efd4a778d143ad65d759401773b4fbbc163513e04ac108",
+    "symbol": "FAKE",
+    "name": "The Fake Asset",
+    "decimals": 8,
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos/FAKE.png"
   }
 ]
