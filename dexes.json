@@ -25,9 +25,9 @@
     "name": "Interest",
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_dexes/interest.png",
     "options": [
-      "interest_sr_amm",
-      "interest_stable",
-      "interest_volatile"
+      "interest_v2",
+      "interest_curve_stable",
+      "interest_curve_volatile"
     ]
   },
   {
