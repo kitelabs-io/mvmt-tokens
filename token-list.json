@@ -41,5 +41,82 @@
     "name": "The Fake Asset",
     "decimals": 8,
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos/FAKE.png"
+  },
+  {
+    "faAddress": "0x527c43638a6c389a9ad702e7085f31c48223624d5102a5207dfab861f482c46d",
+    "symbol": "SolvBTC",
+    "name": "SolvBTC",
+    "decimals": 8,
+    "logoUrl": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684"
+  },
+  {
+    "faAddress": "0x658f4ef6f76c8eeffdc06a30946f3f06723a7f9532e2413312b2a612183759c",
+    "symbol": "LBTC",
+    "name": "Lombard Staked Bitcoin",
+    "decimals": 8,
+    "logoUrl": "https://assets.coingecko.com/coins/images/39969/standard/LBTC_Logo.png?1724959872"
+  },
+  {
+    "faAddress": "0xff91f0df99b217436229b85ae900a2b67970eda92a88b06eb305949ec9828ed6",
+    "symbol": "enzoBTC",
+    "name": "Lorenzo Wrapped Bitcoin",
+    "decimals": 8,
+    "logoUrl": "https://assets.coingecko.com/coins/images/54447/standard/enzo_btc.png?1739773963"
+  },
+  {
+    "faAddress": "0x95c0fd13373299ada1b9f09ff62473ab8b3908e6a30011730210c141dffdc990",
+    "symbol": "stBTC",
+    "name": "Lorenzo stBTC",
+    "decimals": 8,
+    "logoUrl": "https://assets.coingecko.com/coins/images/50978/standard/a.jpg?1730208372"
+  },
+  {
+    "faAddress": "0x2f6af255328fe11b88d840d1e367e946ccd16bd7ebddd6ee7e2ef9f7ae0c53ef",
+    "symbol": "ezETH",
+    "name": "Renzo Restaked ETH",
+    "decimals": 8,
+    "logoUrl": "https://assets.coingecko.com/coins/images/34753/standard/Ezeth_logo_circle.png?1713496404"
+  },
+  {
+    "faAddress": "0xe956f5062c3b9cba00e82dc775d29acf739ffa1e612e619062423b58afdbf035",
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "decimals": 8,
+    "logoUrl": "https://assets.coingecko.com/coins/images/33033/standard/weETH.png?1701438396"
+  },
+  {
+    "faAddress": "0x51ffc9885233adf3dd411078cad57535ed1982013dc82d9d6c433a55f2e0035d",
+    "symbol": "rsETH",
+    "name": "KelpDao Restaked ETH",
+    "decimals": 8,
+    "logoUrl": "https://assets.coingecko.com/coins/images/33800/standard/Icon___Dark.png?1702991855"
+  },
+  {
+    "faAddress": "0xbf2efbffbbd7083aaf006379d96b866b73bb4eb9684a7504c62feafe670962c2",
+    "symbol": "sfrxUSD",
+    "name": "Staked Frax USD",
+    "decimals": 8,
+    "logoUrl": "https://assets.coingecko.com/coins/images/53964/standard/sfrxUSD.png?1737792232"
+  },
+  {
+    "faAddress": "0xe4354602aa4311f36240dd57f3f3435ffccdbd0cd2963f1a69da39a2dbcd59b5",
+    "symbol": "frxUSD",
+    "name": "Frax USD",
+    "decimals": 6,
+    "logoUrl": "https://assets.coingecko.com/coins/images/53963/standard/frxUSD.png?1737792154"
+  },
+  {
+    "faAddress": "0x9d146a4c9472a7e7b0dbc72da0eafb02b54173a956ef22a9fba29756f8661c6c",
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 6,
+    "logoUrl": "https://assets.coingecko.com/coins/images/33613/standard/usde.png?1733810059"
+  },
+  {
+    "faAddress": "0x74f0c7504507f7357f8a218cc70ce3fc0f4b4e9eb8474e53ca778cb1e0c6dcc5",
+    "symbol": "sUSDe",
+    "name": "Staked USDe",
+    "decimals": 6,
+    "logoUrl": "https://assets.coingecko.com/coins/images/33669/standard/sUSDe-Symbol-Color.png?1716307680"
   }
 ]
