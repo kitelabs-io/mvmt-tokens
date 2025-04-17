@@ -18,7 +18,8 @@
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_dexes/meridian.ico",
     "options": [
       "meridian_v2_stable",
-      "meridian_v2_weighted"
+      "meridian_v2_weighted",
+      "meridian_v2_metastable"
     ]
   },
   {
