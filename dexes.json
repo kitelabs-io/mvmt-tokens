@@ -50,5 +50,12 @@
     "options": [
       "mosaic_amm"
     ]
+  },
+  {
+    "name": "MAX",
+    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_dexes/max.svg",
+    "options": [
+      "max_mov"
+    ]
   }
 ]
