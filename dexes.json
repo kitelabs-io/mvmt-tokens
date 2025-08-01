@@ -1,12 +1,5 @@
 [
   {
-    "name": "Warp Gate",
-    "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_dexes/warp_gate.png",
-    "options": [
-      "warp_gate_swap"
-    ]
-  },
-  {
     "name": "YuzuSwap",
     "logoUrl": "https://raw.githubusercontent.com/kitelabs-io/mvmt-tokens/main/logos_dexes/yuzu_swap.svg",
     "options": [
