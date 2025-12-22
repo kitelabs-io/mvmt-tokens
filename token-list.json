@@ -118,5 +118,12 @@
     "name": "Staked USDe",
     "decimals": 6,
     "logoUrl": "https://assets.coingecko.com/coins/images/33669/standard/sUSDe-Symbol-Color.png?1716307680"
+  },
+  {
+    "faAddress": "0x7c9d9f4972072b6ff7dfa48f259688e7286abac9ebd192bbda30fea910139024",
+    "symbol": "MSD",
+    "name": "MoveUSD",
+    "decimals": 6,
+    "logoUrl": "https://raw.githubusercontent.com/arche-labs/assets/refs/heads/main/icons/MSD_200x200.png"
   }
 ]
