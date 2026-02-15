@@ -12,7 +12,8 @@
     "options": [
       "meridian_v2_stable",
       "meridian_v2_weighted",
-      "meridian_v2_metastable"
+      "meridian_v2_metastable",
+      "meridian_clmm"
     ]
   },
   {
